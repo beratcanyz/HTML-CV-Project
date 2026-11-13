@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Beratcan Yıldız - Özgeçmiş</title>
+
 </head>
 <body>
 <h1 style="font-size: 18px; text-align:center; color:#1b2a6b" >Beratcan Yıldız</h1>

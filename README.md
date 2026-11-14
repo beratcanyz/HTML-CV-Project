@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Beratcan Yıldız - Özgeçmiş</title>
+
 </head>
 <body>
 
@@ -14,8 +14,8 @@
 <p style ="font-size:12px ;text-align: center;">E-posta: yberatcan22@gmail.com | Bursa, Türkiye</p>
 
 <p style="text-align:center;color:#1f2430;">
-    <a href="https://github.com/beratcanyz" target="_blank"></a>
-    <a href="https://www.linkedin.com/feed/" target="_blank"></a>
+    <a href ="https://github.com/beratcanyz">GitHub</a>
+    <a href ="https://www.linkedin.com/feed/">Linkedin</a>
 </p>
 
 </td></tr> 

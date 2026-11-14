@@ -14,8 +14,8 @@
 <p style ="font-size:12px ;text-align: center;">E-posta: yberatcan22@gmail.com | Bursa, Türkiye</p>
 
 <p style="text-align:center;color:#1f2430;">
-    <a href="https://github.com/beratcanyz" target="_blank"><img src="github.png.webp" alt="GitHub" width="30"></a>
-    <a href="https://www.linkedin.com/feed/" target="_blank"><img src="linkedin.png.png" alt="LinkedIn" width="30"></a>
+    <a href="https://github.com/beratcanyz" target="_blank"></a>
+    <a href="https://www.linkedin.com/feed/" target="_blank"></a>
 </p>
 
 </td></tr> 
@@ -76,26 +76,6 @@ istekliyim. Yine bu alanda kendimi sürekli geliştirerek ileride nitelikli bir 
 </td></tr> 
 
 </table> 
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <script>
-  var saat = new Date().getHours();
-  var mesaj;
-
-  if (saat < 12) {
-    alert("Günaydın!");
-  } else if (saat < 18) {
-    alert("İyi Günler!");
-  } else {
-    alert("İyi Akşamlar!");
-  }
 
 </script>
 </body>

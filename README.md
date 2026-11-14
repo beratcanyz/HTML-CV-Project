@@ -77,7 +77,6 @@ istekliyim. Yine bu alanda kendimi sürekli geliştirerek ileride nitelikli bir 
 
 </table> 
 
-</script>
 </body>
 </html>
 
